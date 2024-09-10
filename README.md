@@ -8,14 +8,13 @@ Ao longo dessa jornada, irei compartilhar meus avanços, projetos e reflexões d
 
 ## 📅 **Plano de Estudos**
 
-| Dia  | Tema                          | Status         |
-|------|-------------------------------|----------------|
-| 1-20 | Lógica de Programação         | 🚧 Em Progresso|
-| 21-35| HTML                          | ⏳ Em breve    |
-| 36-50| CSS                           | ⏳ Em breve    |
-| 51-70| JavaScript                    | ⏳ Em breve    |
-| 71-85| Python                        | ⏳ Em breve    |
-| 86-100| Ruby                         | ⏳ Em breve    |
+| Dia    | Tema                          | Status         |
+|--------|-------------------------------|----------------|
+| 001-020| Lógica de Programação         | 🚧 Em Progresso|
+| 021-040| HTML/CSS                      | ⏳ Em breve    |
+| 041-060| JavaScript                    | ⏳ Em breve    |
+| 061-080| Python                        | ⏳ Em breve    |
+| 081-100| Ruby                          | ⏳ Em breve    |
 
 ---
 
