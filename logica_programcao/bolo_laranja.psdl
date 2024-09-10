@@ -1,0 +1,48 @@
+// Lógica de programação é a base para criar instruções que resolvem problemas, envolvendo pensamento estruturado e a capacidade de dividir tarefas complexas em partes simples. Um algoritmo é uma sequência clara e finita de passos para solucionar um problema, que pode ser representada em qualquer linguagem de programação. Pseudocódigo é uma forma simplificada e intuitiva de descrever algoritmos usando uma linguagem natural misturada com conceitos de programação, facilitando a compreensão sem depender de uma sintaxe específica. Juntos, esses conceitos ajudam a criar soluções de forma eficiente e estruturada.
+
+// Receita de Bolo de Laranja
+
+// Ingredientes
+
+inteiro ovos = 3
+cadeia suco_laranja = "suco de 2 laranjas"
+cadeia oleo = "1 xícara (chá) de óleo"
+cadeia acucar = "2 xícaras (chá) de açúcar"
+cadeia farinha = "3 xícaras (chá) de farinha de trigo"
+cadeia fermento = "1 colher (sopa) de fermento em pó"
+
+// Calda
+
+cadeia suco_calda = "suco de 1 laranja"
+cadeia acucar_calda = "2 colheres de sopa de açúcar"
+
+// Passo 1: Bater os ingredientes líquidos
+
+escreva("Batendo ", ovos, " ovos, ", suco_laranja, ", ", oleo, " e ", acucar, ".")
+cadeia mistura = "mistura líquida"
+
+// Passo 2: Misturar com a farinha e o fermento
+
+escreva("Misturando com ", farinha, " e ", fermento, ".")
+cadeia massa = "massa homogênea"
+
+// Passo 3: Preparar a forma untada
+
+escreva("Untando a forma com manteiga e farinha.")
+
+// Passo 4: Assar o bolo
+
+escreva("Assando o bolo por 40 minutos em forno médio preaquecido.")
+
+// Passo 5: Preparar a calda
+
+escreva("Fervendo ", suco_calda, " com ", acucar_calda, " para preparar a calda.")
+
+// Passo 6: Desenformar e derramar a calda sobre o bolo
+
+escreva("Desenformando o bolo.")
+escreva("Derramando a calda sobre o bolo.")
+
+// Mensagem final
+
+escreva("Bom apetite!")
